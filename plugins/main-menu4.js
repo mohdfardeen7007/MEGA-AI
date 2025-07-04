@@ -89,25 +89,20 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 ◈ • *rentbot*
 ◈ • *runtime*
 ◈ • *server*
-◈ • *speedtest*
 ◈ • *stoprent*
 ◈ • *uptime*
 ╰─┬─★─☆─♪♪─❍
 ╭─┴❍「 *AI MENU* 」❍
 ◈ • *ai*
-◈ • *blackbox*
-◈ • *blackpink*
 ◈ • *bro*
 ◈ • *chatgpt*
 ◈ • *fact*
 ◈ • *google*
 ◈ • *googleit*
-◈ • *gimage*
 ◈ • *gpt4*
-◈ • *travel*
 ◈ • *why*
 ╰─┬─★─☆─♪♪─❍
-╭─┴❍「 *TEXTPRO MENU* 」❍
+╭─┴❍「 *TEXTPRO* 」❍
 ◈ • *3dsilver*
 ◈ • *balon*
 ◈ • *blackpink*
@@ -137,19 +132,6 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 ◈ • *typo*
 ◈ • *wgalaxy*
 ◈ • *wings*
-╰─┬─★─☆─♪♪─❍
-╭─┴❍「 *IMAGEN MENU* 」❍
-◈ • *animefy*
-◈ • *cartoon*
-◈ • *dalle*
-◈ • *hercai-lexica*
-◈ • *imagev3*
-◈ • *lexica*
-◈ • *prodia*
-◈ • *raava*
-◈ • *shonin*
-◈ • *simurg*
-◈ • *v2beta*
 ╰─┬─★─☆─♪♪─❍
 ╭─┴❍「 *OWNER MENU* 」❍
 ◈ • *addowner*
@@ -183,6 +165,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 ◈ • *listcmd*
 ◈ • *listplugins*
 ◈ • *logout*
+◈ • *notes*
 ◈ • *readviewonce*
 ◈ • *remove*
 ◈ • *restart*
@@ -234,7 +217,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 ◈ • *wallhp*
 ◈ • *wallml*
 ╰─┬─★─☆─♪♪─❍
-╭─┴❍「 *RANDOM VIDEO* 」❍
+╭─┴❍「 *RANDOM VID* 」❍
 ◈ • *tiktokbocil*
 ◈ • *tiktokgirl*
 ◈ • *tiktokghea*
@@ -253,6 +236,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 ◈ • *disable*
 ◈ • *enable*
 ◈ • *group*
+◈ • *getjids*
 ◈ • *groupinfo*
 ◈ • *kick*
 ◈ • *link*
@@ -279,10 +263,8 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 ◈ • *delwarn*
 ◈ • *hidetag*
 ╰─┬─★─☆─♪♪─❍
-╭─┴❍「 *DOWNLOAD M* 」❍
-◈ • *apkdl*
+╭─┴❍「 *DOWNLOADS* 」❍
 ◈ • *apksearch*
-◈ • *audio*
 ◈ • *capcut*
 ◈ • *dlstatus*
 ◈ • *facebook*
@@ -301,11 +283,9 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 ◈ • *npmstalk*
 ◈ • *pinterest*
 ◈ • *pinterest2*
-◈ • *play*
 ◈ • *play2*
 ◈ • *play5*
 ◈ • *playstore*
-◈ • *playvid*
 ◈ • *ringtone*
 ◈ • *rnekos*
 ◈ • *rwall*
@@ -314,13 +294,12 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 ◈ • *tiktok*
 ◈ • *ttstalk*
 ◈ • *twitter*
-◈ • *video*
-◈ • *wallpapers*
+◈ • *ssearch*
 ◈ • *ytmp3*
 ◈ • *ytmp4*
 ◈ • *ytsearch*
 ╰─┬─★─☆─♪♪─❍
-╭─┴❍「 *ECONOMY MENU* 」❍
+╭─┴❍「 *ECONOMY* 」❍
 ◈ • *addgold*
 ◈ • *addxp*
 ◈ • *adventure*
@@ -351,11 +330,11 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 ╰─┬─★─☆─♪♪─❍
 ╭─┴❍「 *FUN MENU* 」❍
 ◈ • *alexa*
+◈ • *teddy*
+◈ • *hack*
 ◈ • *character*
 ◈ • *dare*
 ◈ • *flirt*
-◈ • *gay*
-◈ • *hack*
 ◈ • *hornycard*
 ◈ • *lolicon*
 ◈ • *shayeri*
@@ -365,33 +344,6 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 ◈ • *truth*
 ◈ • *waste*
 ◈ • *ytcomment*
-╰─┬─★─☆─♪♪─❍
-╭─┴❍「 *REACTIONS M* 」❍
-◈ • *awoo*
-◈ • *bite*
-◈ • *blush*
-◈ • *bonk*
-◈ • *bully*
-◈ • *cringe*
-◈ • *cry*
-◈ • *cuddle*
-◈ • *dance*
-◈ • *glomp*
-◈ • *happy*
-◈ • *handhold*
-◈ • *highfive*
-◈ • *hug*
-◈ • *kill*
-◈ • *kiss*
-◈ • *lick*
-◈ • *nom*
-◈ • *poke*
-◈ • *pat*
-◈ • *smug*
-◈ • *slap*
-◈ • *wave*
-◈ • *wink*
-◈ • *yeet*
 ╰─┬─★─☆─♪♪─❍
 ╭─┴❍「 *ANIME MENU* 」❍
 ◈ • *akira*
@@ -513,7 +465,6 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 ◈ • *define*
 ◈ • *element*
 ◈ • *enhance*
-◈ • *fancy*
 ◈ • *filelength*
 ◈ • *google*
 ◈ • *googleit*
@@ -536,12 +487,12 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 ◈ • *styletext*
 ◈ • *technews*
 ◈ • *tinyurl*
+◈ • *time*
 ◈ • *tocartoon*
 ◈ • *topdf*
 ◈ • *tourl*
 ◈ • *trace*
 ◈ • *translate*
-◈ • *true*
 ◈ • *wa*
 ◈ • *weather*
 ◈ • *whatmusic*

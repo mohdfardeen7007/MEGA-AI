@@ -20,29 +20,24 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE" alt="Typing SVG"/>
 </p>
 
-<h1 align="center"> EXTERNAL PLUGINS </h1>
-
-<p align="center">
-<a href="https://github.com/GlobalTechInfo/EXTERNAL-PLUGINS"><img title="Author" src="https://img.shields.io/badge/MEGA AI-PLUGINS-black?style=for-the-badge&logo=Github"></a>
-<p/>
   
 ----
  <h2 align="center">  🚨 NOTE 🚨
 </h2>
 
-- **Just Put Your Number In The Value Of BOT_NUMBER, e.g BOT_NUMBER = '923444844XXX' ,In .env file and Deploy The Bot.**
+- Just Put Your Number In The Value Of BOT_NUMBER, e.g BOT_NUMBER = '923444844XXX' ,In .env file and Deploy The Bot.
 
-- **You'll Get A Pairing Code ( MEGA-AI44 ) Directly In The Terminal at The End Of Deployment, Pair And Get Connected.**
+- You'll Get A Pairing Code ( MEGA-AI44 ) Directly In The Terminal at The End Of Deployment, Pair And Get Connected.
 
-- **If You Gets Any Problem During Connecting to WhatsApp Just Change The DB_NAME in env**
+- If You Gets Any Problem During Connecting to WhatsApp Just Change The DB_NAME in env
 
-- **You Have To Change The DB_NAME variable every Time You Redpoly The Bot**
+- You Have To Change The DB_NAME variable every Time You Redpoly The Bot
 
-- **Example : DB_NAME = 'guru_bot' , Change To DB_NAME = 'something'**
+- Example : DB_NAME = 'guru_bot' , Change To DB_NAME = 'something'
 
 ----
 
-set the Env Vars.
+**Set Environment Variables.**
     <br>
 
 
@@ -73,19 +68,13 @@ Open WhatsApp > Linked Devices > Link a Device > Link with phone number and ente
 <p>Commands are invoked with a prefix (default is <code>.</code>). For example:</p>
 
 <pre><code>
-.ping      # Check bot response time
-.menu      # Display command menu and help
-.list      # List all available commands
-.alive     # Show bot status
+.ping          # Check bot response time
+.allmenu       # Display command menu and help
+.listmenu      # List all available commands
+.alive         # Show bot status
 </code></pre>
 
 ------
-
-
-## 🎬 Watch the Tutorial
-
-To set up the MEGA AI quickly, follow our detailed tutorial on YouTube:
-[![MEGA AI YouTube Tutorial](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/GKHazA8e2oQ)
 
 ---
 
@@ -96,8 +85,8 @@ To set up the MEGA AI quickly, follow our detailed tutorial on YouTube:
 - **Games**: A gaming arena for you to play.
 - **Interactive Polls**: Create **Would You Rather** polls with randomized options.
 - **Audio Editor** Tune Mp3/Audio ,Voices As You Wish.
-- **Imagen Ai** Many Image Generator**AI Models** Will Generates Images And Designs Based On Your **Prompts/text**.
-- **Reactions**: A Secret Reations Menu For Group.
+- ** Ai Menu** Many **AI Models** at your fingertips.
+- **Tools**: A big collection of tools.
 ---
 
 ## Deployment Options
@@ -119,9 +108,6 @@ To set up the MEGA AI quickly, follow our detailed tutorial on YouTube:
    </a>
 
 **Option B: Deploy In Koyeb**
-
-[![Koyeb Tutorial](https://img.shields.io/badge/Watch%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/GKHazA8e2oQ)
-
 1. [Sign Up on Koyeb](https://app.koyeb.com/auth/signup).
 2. Deploy your app using the button below:
    <br>
@@ -168,13 +154,6 @@ To set up the MEGA AI quickly, follow our detailed tutorial on YouTube:
    <br>
    <a href='https://bot-hosting.net/?aff=1097457675723341836' target="_blank">
       <img alt='Deploy In Panel' src='https://img.shields.io/badge/-DEPLOY-green?style=for-the-badge&logo=Cloudflare&logoColor=white'/>
-   </a>
-   
-      **Tutorial For Panel**
-1. First You Have to Sign up on discord using web or app download from playstore.
-   <br>
-   <a href='https://youtu.be/nE4v4KWBfAU' target="_blank">
-      <img alt='Deployment Tutorial' src='https://img.shields.io/badge/-Tutorial-red?style=for-the-badge&logo=youtube&logoColor=white'/>
    </a>
    
 ---
@@ -246,17 +225,13 @@ To get started with this project, follow the steps below:
 
 🎉 *.animemenu* - Animated Images,Stickers and Videos.
 
-🍒 *.reactions* - Anime reactions menu for group.
-
 🪁 *.infoanime* - Full Information About Animes Like imdb.
-
-💡 *.imagen* - Create Images and designs based on your thoughts/prompts.
 
 🃏 *.randompic* - Random Images you might like and love.
 
 🎥 *.randomvid* - Random Videos you might like and love.
 
-🖍️ *.fancy* - Fancy text generator Menu.
+🖍️ *.styletext* - Fancy text generator Menu.
 
 ---
 ### 🛠 Usage
@@ -273,8 +248,8 @@ Once the installation is complete and the bot is running, you can use the MEGA-A
    - Enter a Link After Command For Downloading Media From Various Platforms e.g  **Instagram link** whether its a post  **image** , **video** or **story**.
      - Example: `.insta <url_link>`
      
-#### 4. **Imagen Ai**
-   - Many Image Generator **AI Models** Will Generates Images And Designs Based On Your **Prompts/text**.
+#### 4. **Ai Models**
+   - Many **AI Models** at your fingertips.
 
 #### 5. **Group Customization**
    - You Can Customize All The Group **Settings/Events** Using Just Commands.
@@ -321,8 +296,13 @@ Submit a pull request with a detailed description of your changes.
     <img src="https://img.shields.io/badge/YouTube-@GlobalTechInfo-000000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </p>
-### 📄 License
-This project is licensed under the [Apache-2.0 license](LICENSE) - see the LICENSE file for details.
+
+
+## 🪪 License
+
+- License: [Apache License](http://www.apache.org/licenses/)
+  
+- This project is licensed under the Apache License - see the LICENSE file for details.
 
 
 
@@ -345,8 +325,6 @@ This project is licensed under the [Apache-2.0 license](LICENSE) - see the LICEN
   
  7. ## DEPLOY IN TERMUX
 
-
-[![Termux Tutorial](https://img.shields.io/badge/Watch%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/bmv-etXhWSA)
 
 
  9. **For Ubuntu Users**
@@ -444,11 +422,6 @@ npm start
 
 - **STAR ⭐ THE REPO IF YOU LIKE MEGA-AI .**
 
-- ## OTHER PROJECTS:
-
-- [PAIRING WEB](https://github.com/GlobalTechInfo/WEB-PAIR-QR)
-- [TELEGRAM BOT](https://github.com/GlobalTechInfo/TELEGRAM-AI)
-
 
 ## Credits
 
@@ -477,6 +450,8 @@ npm start
   
 <p align="center">
   
-[![JOIN WHATSAPP CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07)
+#### Join Group
+[![Group WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/FJ6h6DvenWaLXMfP0JXSmQ) 
+
 
 --------

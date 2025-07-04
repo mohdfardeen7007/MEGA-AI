@@ -187,6 +187,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 ◈ • *listcmd*
 ◈ • *listplugins*
 ◈ • *logout*
+◈ • *notes*
 ◈ • *readviewonce*
 ◈ • *remove*
 ◈ • *restart*
@@ -266,6 +267,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 ◈ • *disable*
 ◈ • *enable*
 ◈ • *group*
+◈ • *getjids*
 ◈ • *groupinfo*
 ◈ • *kick*
 ◈ • *link*
@@ -328,6 +330,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 ◈ • *tiktok*
 ◈ • *ttstalk*
 ◈ • *twitter*
+◈ • *ssearch*
 ◈ • *ytmp3*
 ◈ • *ytmp4*
 ◈ • *ytsearch*
@@ -360,6 +363,8 @@ let handler = async (m, { conn, usedPrefix, command }) => {
       lkr = `
 ╭───『 *FUN* 』─❍
 ◈ • *alexa*
+◈ • *hack*
+◈ • *teddy*
 ◈ • *character*
 ◈ • *dare*
 ◈ • *flirt*
@@ -511,7 +516,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 ◈ • *define*
 ◈ • *element*
 ◈ • *enhance*
-◈ • *fancy*
+◈ • *styletext*
 ◈ • *filelength*
 ◈ • *google*
 ◈ • *happymod*
@@ -530,9 +535,9 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 ◈ • *removebg*
 ◈ • *remini*
 ◈ • *ssweb*
-◈ • *styletext*
 ◈ • *technews*
 ◈ • *tinyurl*
+◈ • *time*
 ◈ • *tocartoon*
 ◈ • *topdf*
 ◈ • *tourl*
