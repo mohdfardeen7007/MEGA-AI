@@ -133,7 +133,7 @@ export async function handler(chatUpdate) {
         if (!isNumber(chat.expired)) chat.expired = 0
       } else
         global.db.data.chats[m.chat] = {
-          antiDelete: true,
+          antiDelete: false,
           antiLink: false,
           antiSticker: false,
           antiToxic: false,
